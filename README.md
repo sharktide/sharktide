@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rihaan.</h1>
 
-<!--
-**sharktide/sharktide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 12 years old and typically write Python, JS, and C#. I am also an AI developer, working on many image classifiaction/computer vision projects in my free time. Some of my notable projects include:
 
-Here are some ideas to get you started:
+- [reStructuredPython (A superset of python with 1500 downloads](https://github.com/sharktide/restructuredpython) as the creator.
+- [recycleAI (RDaCiCC)](https://github.com/sharktide/recyclesmart)
+- [FindMyFood](https://github.com/sharktide/findmyfood)
+- [recycleBot (Model Files for recycleAI website)](https://hf.co/sharktide/recyclebot0)
+- [TensorFlowTools - A library to quickly and easliy load Tensorflow-Keras models from HuggingFace](https://github.com/sharktide/tftools)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other accounts
+
+- RoboFlow: `sharktide`
+- Huggingface: [@sharktide](https://hf.co/sharktide)
