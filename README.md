@@ -15,7 +15,7 @@ I am also a science geek; some accomplishments include
 - Second Place in the Palm Beach County Regional Science and Engineering Fair (2025) in Intelligent Machines and Robotic systems category.
 - Nominated for the Thermo Fisher Junior Innovators Challenge (2025) by being in the top 10% of my Science Fair.
 
-\t... (*it continues*)
+   ... (*it continues*)
 
 ## Other accounts
 
