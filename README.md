@@ -1,23 +1,43 @@
-<h1 align="center">Hi, I'm Rihaan.</h1>
+<h1 align="center">Hi, I'm Rihaan 👋</h1>
 
-I'm a student and typically write Python, JS, and C#. I am also an AI developer, working on many image classifiaction/computer vision projects in my free time. Some of my notable projects include:
+I'm a student, developer, and lifelong tinkerer with a passion for building things that make tech more intuitive and impactful. I spend most of my time writing in **Python**, **JavaScript**, **C#**, and **C++** and I dive deep into **AI**, particularly computer vision and image classification. 
 
-- [reStructuredPython (A superset of python with over 7400 downloads)](https://github.com/sharktide/restructuredpython) as the creator.
-- [recycleAI (RDaCiCC)](https://github.com/sharktide/recyclesmart)
-- [FindMyFood](https://github.com/sharktide/findmyfood)
-- [recycleBot (Model Files for recycleAI website)](https://hf.co/sharktide/recyclebot0)
-- [TensorFlowTools - A library to quickly and easliy load Tensorflow-Keras models from HuggingFace](https://github.com/sharktide/tftools)
+---
 
-I am also a science geek; some accomplishments include
+### 🛠 Notable Projects
 
-- First Place in the Florida Junior Academy of Sciences (2025) for Envoirnmental Speaker.
-- Third place in the Cornell Undergraduate Research Magazine Competition (2025) in original research paper.
-- Second Place in the Palm Beach County Regional Science and Engineering Fair (2025) in Intelligent Machines and Robotic systems category.
-- Nominated for the Thermo Fisher Junior Innovators Challenge (2025) by being in the top 10% of my Science Fair.
+- 🧪 [**reStructuredPython**](https://github.com/sharktide/restructuredpython): A superset of Python with over **7,700 downloads**—designed to bring clarity and structure to Pythonic code.
+- ♻️ [**recycleAI (RDaCiCC)**](https://github.com/sharktide/recyclesmart): AI-powered recycling assistant for smarter, more sustainable waste management.
+- 🍽️ [**RecipeLive**](https://github.com/sharktide/RecipeLive): An open-source platform for food-lovers to share and try their favorite recipes
+- 🤖 [**recycleBot**](https://huggingface.co/sharktide/recyclebot0): Model files for powering the RecycleAI platform on Hugging Face.
+- ⚙️ [**TensorFlowTools**](https://github.com/sharktide/tftools): A lightweight toolkit to quickly load TensorFlow/Keras models from Hugging Face with ease.
 
-   ... (*it continues*)
+---
 
-## Other accounts
+### 🧩 Open Source Contributions
 
-- RoboFlow: `sharktide`
-- Huggingface: [@sharktide](https://hf.co/sharktide)
+- 🐍 **CPython**: Contributor to the official Python interpreter—helping improve the language that powers millions of developers.
+- 🧠 **GitHub Linguist**: Current maintainer of the official **LiveScript** grammar used across GitHub for syntax highlighting. [Merged in v9.2.0](https://github.com/github-linguist/linguist/pull/7377), replacing the deprecated grammar and modernizing LiveScript support.
+
+---
+
+### 🔬 Science Meets Code
+
+Beyond the screen, I'm a passionate science communicator and researcher. A few recent milestones I'm proud of:
+
+- 🥇 *First Place*, Florida Junior Academy of Sciences (2025) — Environmental Speaker  
+- 🥉 *Third Place*, Cornell Undergraduate Research Magazine Competition (2025) — Original Research  
+- 🥈 *Second Place*, Palm Beach County Science & Engineering Fair (2025) — Intelligent Machines  
+- 🧪 *Top 10% National Nominee*, Thermo Fisher Junior Innovators Challenge (2025)
+
+---
+
+### 🌐 Find Me Elsewhere
+
+- 🤖 **Roboflow**: `sharktide`  
+- 🤗 **Hugging Face**: [@sharktide](https://huggingface.co/sharktide)
+- 🐍 **Python Discussions**: [@sharktide](https://discuss.python.org/u/sharktide/summary)
+
+---
+
+If you love smart code, sharp design, or weirdly niche science facts, you're in the right place.
