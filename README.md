@@ -17,7 +17,7 @@ I'm a student, developer, and lifelong tinkerer with a passion for building thin
 ### 🧩 Open Source Contributions
 
 - 🐍 **CPython**: Contributor to the official Python interpreter—helping improve the language that powers millions of developers.
-- 🧠 **GitHub Linguist**: Current maintainer of the official **LiveScript** grammar used across GitHub for syntax highlighting. [Merged in v9.2.0](https://github.com/github-linguist/linguist/pull/7377), replacing the deprecated grammar and modernizing LiveScript support.
+- 🧠 **GitHub Linguist**: Current maintainer of the official **LiveScript** grammar used across GitHub for syntax highlighting. [Merged in v9.2.0](https://github.com/github-linguist/linguist/pull/7377), replacing the deprecated grammar and modernizing LiveScript support, I'm also a regular reviewer of issues and pull requests :)
 
 ---
 
