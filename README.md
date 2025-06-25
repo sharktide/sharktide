@@ -1,7 +1,4 @@
-<h1 align="center">Hi, I'm Rihaan 👋</h1>
-
-I'm a student, developer, and lifelong tinkerer with a passion for building things that make tech more intuitive and impactful. I spend most of my time writing in **Python**, **JavaScript**, **C#**, and **C++** and I dive deep into **AI**, particularly computer vision and image classification. 
-
+<h1 align="center">Hi!</h1>
 ---
 
 ### 🛠 Notable Projects
@@ -17,18 +14,7 @@ I'm a student, developer, and lifelong tinkerer with a passion for building thin
 ### 🧩 Open Source Contributions
 
 - 🐍 **CPython**: Contributor to the official Python interpreter—helping improve the language that powers millions of developers.
-- 🧠 **GitHub Linguist**: Current maintainer of the official **LiveScript** grammar used across GitHub for syntax highlighting. [Merged in v9.2.0](https://github.com/github-linguist/linguist/pull/7377), replacing the deprecated grammar and modernizing LiveScript support, I'm also a regular reviewer of issues and pull requests :)
-
----
-
-### 🔬 Science Meets Code
-
-Beyond the screen, I'm a passionate science communicator and researcher. A few recent milestones I'm proud of:
-
-- 🥇 *First Place*, Florida Junior Academy of Sciences (2025) — Environmental Speaker  
-- 🥉 *Third Place*, Cornell Undergraduate Research Magazine Competition (2025) — Original Research  
-- 🥈 *Second Place*, Palm Beach County Science & Engineering Fair (2025) — Intelligent Machines  
-- 🧪 *Top 10% National Nominee*, Thermo Fisher Junior Innovators Challenge (2025)
+- 🧠 **GitHub Linguist**: Current maintainer of the official **LiveScript** grammar used across GitHub for syntax highlighting. [Merged in v9.2.0](https://github.com/github-linguist/linguist/pull/7377), replacing the removed grammar and modernizing LiveScript 
 
 ---
 
