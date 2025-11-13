@@ -7,7 +7,7 @@
 <br>
 <div align="center">
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=sharktide&layout=compact&langs_count=20&exclude_repo=iscc-cli)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=sharktide&layout=compact&langs_count=10&exclude_repo=iscc-cli)
 
 </div>
 
