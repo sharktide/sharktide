@@ -14,7 +14,7 @@
 ### 🛠 Notable Projects
 
 
-- 🧪 [**reStructuredPython**](https://github.com/sharktide/restructuredpython): A superset of Python with over **11,000 downloads**—designed to bring clarity and structure to Pythonic code.
+- 🧪 [**reStructuredPython**](https://github.com/sharktide/restructuredpython): A superset of Python with over **50,000 downloads**—designed to bring clarity and structure to Pythonic code.
 - ♻️ [**recycleAI (RDaCiCC)**](https://github.com/sharktide/recyclesmart): AI-powered recycling assistant for smarter, more sustainable waste management.
 - 🍽️ [**RecipeLive**](https://github.com/sharktide/RecipeLive): An open-source platform for food-lovers to share and try their favorite recipes
 - 🤖 [**recycleBot**](https://huggingface.co/sharktide/recyclebot0): Model files for powering the RecycleAI platform on Hugging Face.
