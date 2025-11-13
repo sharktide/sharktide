@@ -4,8 +4,9 @@
 
 ![image](https://github-readme-stats.vercel.app/api?username=sharktide)
 </div>
-<br />
+<br>
 <div align="center">
+
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=sharktide&layout=compact&langs_count=20&exclude_repo=iscc-cli)
 
 </div>
