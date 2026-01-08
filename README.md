@@ -2,12 +2,12 @@
 
 <div align="center">
 
-![image](https://github-readme-stats.vercel.app/api?username=sharktide)
+![image](https://readme-stats-fast.vercel.app/api?username=sharktide)
 </div>
 <br>
 <div align="center">
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=sharktide&layout=compact&langs_count=10&exclude_repo=iscc-cli)
+![image](https://readme-stats-fast.vercel.app/api/top-langs/?username=sharktide&layout=compact&langs_count=10&exclude_repo=iscc-cli)
 
 </div>
 
