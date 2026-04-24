@@ -11,24 +11,6 @@
 
 </div>
 
-### 🛠 Notable Projects
-
-
-- 🧪 [**reStructuredPython**](https://github.com/sharktide/restructuredpython): A superset of Python with over **50,000 downloads**—designed to bring clarity and structure to Pythonic code.
-- ♻️ [**recycleAI (RDaCiCC)**](https://github.com/sharktide/recyclesmart): AI-powered recycling assistant for smarter, more sustainable waste management.
-- 🍽️ [**RecipeLive**](https://github.com/sharktide/RecipeLive): An open-source platform for food-lovers to share and try their favorite recipes
-- 🤖 [**recycleBot**](https://huggingface.co/sharktide/recyclebot0): Model files for powering the RecycleAI platform on Hugging Face.
-- ⚙️ [**TensorFlowTools**](https://github.com/sharktide/tftools): A lightweight toolkit to quickly load TensorFlow/Keras models from Hugging Face with ease.
-
----
-
-### 🧩 Open Source Contributions
-
-- 🐍 **CPython**: Contributor to the official Python interpreter—helping improve the language that powers millions of developers.
-- 🧠 **GitHub Linguist**: Current maintainer of the official **LiveScript** grammar used across GitHub for syntax highlighting. [Merged in v9.2.0](https://github.com/github-linguist/linguist/pull/7377), replacing the removed grammar and modernizing LiveScript 
-
----
-
 ### 🌐 Find Me Elsewhere
 
 - 🤖 **Roboflow**: `sharktide`  
@@ -37,4 +19,24 @@
 
 ---
 
-If you love smart code, sharp design, or weirdly niche science facts, you're in the right place.
+# Hi!
+
+I'm a coder, cybersecurity researcher, science researcher, open source contributor, and AI/ML researcher working out of the United States.
+
+Some open-source projects I contribute to:
+
+- python/cpython -- the official python programming language
+- tensorflow/tensorflow -- the tensorflow library for machine learning and scientific computation
+- jax/jax-ml -- JAX for scientific computation
+- powershell/powershell -- powershell 7 (yes, that powershell you see in windows!)
+- github-linguist/linguist -- the official engine that powers syntax highlighting on github
+
+I also created the following:
+
+- ClimateStrike AI: Effecient, lightweight AI systems for the early prediction of natural disasters (Second place at Florida SSEF)
+- RDaCiCC: AI systems for automated recyclable sorting (First place at FJAS)
+- InferencePort AI: httpS://inference.js.org
+- reStructuredPython: A superset of python with over 50k downloads
+- various github syntax highlighting texxtmate grammars
+
+scroll down to check it out 👇
