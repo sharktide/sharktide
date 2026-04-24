@@ -36,7 +36,7 @@ I also created the following:
 
 - ClimateStrike AI: Effecient, lightweight AI systems for the early prediction of natural disasters (Second place at Florida SSEF)
 - RDaCiCC: AI systems for automated recyclable sorting (First place at FJAS)
-- InferencePort AI: httpS://inference.js.org
+- InferencePort AI: https://inference.js.org
 - reStructuredPython: A superset of python with over 50k downloads
 - various github syntax highlighting texxtmate grammars
 
