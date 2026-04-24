@@ -22,6 +22,7 @@
 # Hi!
 
 I'm a coder, cybersecurity researcher, science researcher, open source contributor, and AI/ML researcher working out of the United States.
+I can code in Python, JavaScript, TypeScript, HTML, CSS, C++, C, C#, Starlark (bzl), MSBuild (xml), and Github Actions (yml).
 
 Some open-source projects I contribute to:
 
