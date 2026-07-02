@@ -39,5 +39,3 @@ I also created the following:
 - InferencePort AI: https://inference.js.org
 - reStructuredPython: A superset of python with over 50k downloads
 - various github syntax highlighting texxtmate grammars
-
-scroll down to check it out 👇
